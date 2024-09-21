@@ -29,12 +29,17 @@ Interactive Features: Filters and slicers for users to explore data by various d
 
 Shared Actionable Insights: Provided stakeholders with valuable insights to support decision-making processes.
 
-# 5. Export & Share Project
-Exporting the Dashboard: Save Power BI file (.pbix) after creating the dashboard.
+# Key Insights (Week on Week)
+Revenue increased by 28.8%. Total Transaction Amount increased by 25.94%. 
+Total Transaction Count increased by 3.28%. Customer Satisfaction Score dropped by 20.63%. 
+Year-to-Date (YTD) Overview : Overall Revenue: 56.5M 
+Total Interest Earned: 8M, Total Transaction Amount: 45.5M, Total Transaction Count: 667.2K ,Activation Rate: 57.5% , Delinquency Rate: 6.06% ,Gender Breakdown: Male Customers: 31M & Female Customers: 26M
 
-Publishing to Power BI Service: Publish the dashboard to the Power BI Service for sharing with stakeholders.
+Card Type Contribution : Blue & Silver cards contribute 93% of total transactions.
 
-Sharing the Dashboard: Share the published dashboard link with stakeholders.
+Top Performing States : TX, NY, CA contribute 68% of total revenue.
+
+Action Items : Investigate the decline in customer satisfaction. Explore ways to increase activation rates. Focus on strategies to reduce the delinquency rate
 
 # Conclusion
 The Credit Card Transaction and Customer Dashboard in Power BI provides a powerful tool for visualizing and analyzing financial data. By leveraging the interactive features of Power BI, stakeholders can gain valuable insights and make data-driven decisions to enhance business performance.
